@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @addadi000
-- 🌱 I’m currently learning javascript!
-
-<!---
-addadi000/addadi000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://count.getloli.com/@addadi000?name=addadi000&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="View Cotunt" />
+</div>
